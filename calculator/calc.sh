@@ -26,3 +26,4 @@ case $op in
 esac
 
 echo "Result: $result"
+echo "Calculation complete"
