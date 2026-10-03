@@ -1,0 +1,108 @@
+Bash - 
+its used to run commands and write scripts(a script in coding is a plain text file containing a sequence of instructions that a computer executes line by line to automate a task) on unix(a powerful os) or linux systems 
+
+Shell vs Bash Shell - shell is any command line tool(a software program that you can interact with by typing text commands into a console or a terminal rather than clicking icons or menus in a graphical user interface (GUI))
+
+And Bash Shell (Bourne again shell) - is a CLI and scripting language used to interact with unix like OS
+
+Bourne shell(sh) - the original CLI and scripting lang for unix systems 
+
+GNU(GNU's Not Unix) - a massive collection of free software designed to work as a unix-compatible OS 
+
+
+Common commands:
+
+    ls - List directory contents
+    cd - Change the current directory
+    pwd - Print the current working directory
+    echo - Display a line of text
+    cat - Concatenate and display files
+    cp - Copy files and directories
+    mv - Move or rename files
+    rm - Delete files or folders
+    touch - Create an empty file or update its time
+    mkdir - Create a new folder
+
+
+The ls command has a variety of options to customize its output:
+
+    -l - Long listing format
+    -a - Include hidden files
+    -h - Human-readable sizes
+    -t - Sort by modification time
+    -r - Reverse order while sorting
+    -R - List subdirectories recursively
+    -S - Sort by file size
+    -1 - List one file per line
+    -d - List directories themselves, not their contents
+    -F - Append indicator (one of */=@|) to entries
+
+If you see -rwxr-xr--:Owner can read, write, and execute (rwx).Group can read and execute, but not write (r-x).Others can only read, but not write or execute (r--).
+
+Options Overview
+
+The echo command has several options to customize its output:
+
+    -n - Don't add a new line at the end
+    -e - Allow special characters like \n for new lines
+    -E - Don't allow special characters (default)
+
+
+Bash vs zsh - so zsh is basically just an extended and highly customisable alt to the Bash Shell
+
+
+The cat command has options to change how it shows text:
+
+    -n - Add numbers to each line
+    -b - Add numbers only to lines with text
+    -s - Remove extra empty lines
+    -v - Show non-printing characters (except for tabs and end of line)
+
+grep - in linux is a command line utility used to search for specific words, phases or patterns within text files or command outputs
+
+The cp command has options to change how it works:
+
+    -r - Copy all files and folders inside a directory
+    -i - Ask before replacing files
+    -u - Copy only if the source is newer
+    -v - Verbose mode, show files being copied
+
+
+The rm command has options to change how it works:
+
+    -r - Delete a folder and everything inside it
+    -i - Ask before deleting each file
+    -f - Force delete without asking
+    -v - Verbose mode, show files being removed
+
+
+The touch command has options to change how it works:
+
+    -a - Update only when the file was last read
+    -m - Update only when the file was last changed
+    -t - Set the timestamp to a specific time
+    -c - Do not create any files
+
+The mkdir command has several options to customize its behavior:
+
+    -p - Create parent directories as needed
+    -v - Show a message for each created directory
+    -m - Set file mode (permissions)
+
+
+man - command used to display the user manual of any command that can be run on the terminal
+
+alias - allows you to create shortcuts for long or frequently used commands 
+ex - alias gs='git status'
+
+use "alias" command directly to view the alises
+
+to remove an alias - usalias gs
+
+to create a permanent alias - add it to the ~./bashrc or ~/.bash_profile 
+
+ex - nano ~/.bashrc
+
+then, add it normally within the nano file and save - Ctrl+X, Y, enter to exit
+
+

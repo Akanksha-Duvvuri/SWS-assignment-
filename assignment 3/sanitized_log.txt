@@ -1,0 +1,100 @@
+02/08/2026|11:07:00|U006|Ananya|[EMAIL MASKED]|CSE|Faculty|DELETE|FAILED|[IP MASKED]|faculty/results.xlsx|Delete operation failed
+03/08/2026|14:14:00|U011|Arjun|[EMAIL MASKED]|IT|Student|ACCESS|SUCCESS|[IP MASKED]|course/assignment.pdf|Resource accessed
+04/08/2026|17:21:00|U004|Meera|[EMAIL MASKED]|EEE|Student|LOGIN|FAILED|[IP MASKED]|course/notes.txt|Invalid password
+05/08/2026|08:28:00|U009|Rahul|[EMAIL MASKED]|CSE|Student|PASSWORD_CHANGE|SUCCESS|[IP MASKED]|research/dataset.csv|Password changed
+06/08/2026|11:35:00|U002|Diya|[EMAIL MASKED]|ECE|Student|ACCESS|DENIED|[IP MASKED]|lab/config.conf|Permission denied
+07/08/2026|14:42:00|U007|Vikram|[EMAIL MASKED]|ECE|Faculty|DOWNLOAD|SUCCESS|[IP MASKED]|lab/project.zip|File downloaded
+08/08/2026|17:49:00|U012|Sana|[EMAIL MASKED]|CSE|Researcher|LOGIN|FAILED|[IP MASKED]|admin/backup.tar|Account temporarily locked
+09/08/2026|08:56:00|U005|Kiran|[EMAIL MASKED]|IT|Student|DELETE|SUCCESS|[IP MASKED]|research/report.pdf|File deleted
+10/08/2026|11:03:00|U010|Ishita|[EMAIL MASKED]|EEE|Student|UPLOAD|SUCCESS|[IP MASKED]|faculty/results.xlsx|File uploaded
+11/08/2026|14:10:00|U003|Rohan|[EMAIL MASKED]|CSE|Student|LOGIN|SUCCESS|[IP MASKED]|course/assignment.pdf|User login successful
+12/08/2026|17:17:00|U008|Neha|[EMAIL MASKED]|IT|Staff|DELETE|FAILED|[IP MASKED]|course/notes.txt|Delete operation failed
+13/08/2026|08:24:00|U001|Aarav|[EMAIL MASKED]|CSE|Student|ACCESS|SUCCESS|[IP MASKED]|research/dataset.csv|Resource accessed
+14/08/2026|11:31:00|U006|Ananya|[EMAIL MASKED]|CSE|Faculty|LOGIN|FAILED|[IP MASKED]|lab/config.conf|Invalid password
+15/08/2026|14:38:00|U011|Arjun|[EMAIL MASKED]|IT|Student|PASSWORD_CHANGE|SUCCESS|[IP MASKED]|lab/project.zip|Password changed
+16/08/2026|17:45:00|U004|Meera|[EMAIL MASKED]|EEE|Student|ACCESS|DENIED|[IP MASKED]|admin/backup.tar|Permission denied
+17/08/2026|08:52:00|U009|Rahul|[EMAIL MASKED]|CSE|Student|DOWNLOAD|SUCCESS|[IP MASKED]|research/report.pdf|File downloaded
+18/08/2026|11:59:00|U002|Diya|[EMAIL MASKED]|ECE|Student|LOGIN|FAILED|[IP MASKED]|faculty/results.xlsx|Account temporarily locked
+19/08/2026|14:06:00|U007|Vikram|[EMAIL MASKED]|ECE|Faculty|DELETE|SUCCESS|[IP MASKED]|course/assignment.pdf|File deleted
+20/08/2026|17:13:00|U012|Sana|[EMAIL MASKED]|CSE|Researcher|UPLOAD|SUCCESS|[IP MASKED]|course/notes.txt|File uploaded
+21/08/2026|08:20:00|U005|Kiran|[EMAIL MASKED]|IT|Student|LOGIN|SUCCESS|[IP MASKED]|research/dataset.csv|User login successful
+22/08/2026|11:27:00|U010|Ishita|[EMAIL MASKED]|EEE|Student|DELETE|FAILED|[IP MASKED]|lab/config.conf|Delete operation failed
+23/08/2026|14:34:00|U003|Rohan|[EMAIL MASKED]|CSE|Student|ACCESS|SUCCESS|[IP MASKED]|lab/project.zip|Resource accessed
+24/08/2026|17:41:00|U008|Neha|[EMAIL MASKED]|IT|Staff|LOGIN|FAILED|[IP MASKED]|admin/backup.tar|Invalid password
+25/08/2026|08:48:00|U001|Aarav|[EMAIL MASKED]|CSE|Student|PASSWORD_CHANGE|SUCCESS|[IP MASKED]|research/report.pdf|Password changed
+26/08/2026|11:55:00|U006|Ananya|[EMAIL MASKED]|CSE|Faculty|ACCESS|DENIED|[IP MASKED]|faculty/results.xlsx|Permission denied
+27/08/2026|14:02:00|U011|Arjun|[EMAIL MASKED]|IT|Student|DOWNLOAD|SUCCESS|[IP MASKED]|course/assignment.pdf|File downloaded
+28/08/2026|17:09:00|U004|Meera|[EMAIL MASKED]|EEE|Student|LOGIN|FAILED|[IP MASKED]|course/notes.txt|Account temporarily locked
+01/08/2026|08:16:00|U009|Rahul|[EMAIL MASKED]|CSE|Student|DELETE|SUCCESS|[IP MASKED]|research/dataset.csv|File deleted
+02/09/2026|11:23:00|U002|Diya|[EMAIL MASKED]|ECE|Student|UPLOAD|SUCCESS|[IP MASKED]|lab/config.conf|File uploaded
+03/09/2026|14:30:00|U007|Vikram|[EMAIL MASKED]|ECE|Faculty|LOGIN|SUCCESS|[IP MASKED]|lab/project.zip|User login successful
+04/09/2026|17:37:00|U012|Sana|[EMAIL MASKED]|CSE|Researcher|DELETE|FAILED|[IP MASKED]|admin/backup.tar|Delete operation failed
+05/09/2026|08:44:00|U005|Kiran|[EMAIL MASKED]|IT|Student|ACCESS|SUCCESS|[IP MASKED]|research/report.pdf|Resource accessed
+06/09/2026|11:51:00|U010|Ishita|[EMAIL MASKED]|EEE|Student|LOGIN|FAILED|[IP MASKED]|faculty/results.xlsx|Invalid password
+07/09/2026|14:58:00|U003|Rohan|[EMAIL MASKED]|CSE|Student|PASSWORD_CHANGE|SUCCESS|[IP MASKED]|course/assignment.pdf|Password changed
+08/09/2026|17:05:00|U008|Neha|[EMAIL MASKED]|IT|Staff|ACCESS|DENIED|[IP MASKED]|course/notes.txt|Permission denied
+09/09/2026|08:12:00|U001|Aarav|[EMAIL MASKED]|CSE|Student|DOWNLOAD|SUCCESS|[IP MASKED]|research/dataset.csv|File downloaded
+10/09/2026|11:19:00|U006|Ananya|[EMAIL MASKED]|CSE|Faculty|LOGIN|FAILED|[IP MASKED]|lab/config.conf|Account temporarily locked
+11/09/2026|14:26:00|U011|Arjun|[EMAIL MASKED]|IT|Student|DELETE|SUCCESS|[IP MASKED]|lab/project.zip|File deleted
+12/09/2026|17:33:00|U004|Meera|[EMAIL MASKED]|EEE|Student|UPLOAD|SUCCESS|[IP MASKED]|admin/backup.tar|File uploaded
+13/09/2026|08:40:00|U009|Rahul|[EMAIL MASKED]|CSE|Student|LOGIN|SUCCESS|[IP MASKED]|research/report.pdf|User login successful
+14/09/2026|11:47:00|U002|Diya|[EMAIL MASKED]|ECE|Student|DELETE|FAILED|[IP MASKED]|faculty/results.xlsx|Delete operation failed
+15/09/2026|14:54:00|U007|Vikram|[EMAIL MASKED]|ECE|Faculty|ACCESS|SUCCESS|[IP MASKED]|course/assignment.pdf|Resource accessed
+16/09/2026|17:01:00|U012|Sana|[EMAIL MASKED]|CSE|Researcher|LOGIN|FAILED|[IP MASKED]|course/notes.txt|Invalid password
+17/09/2026|08:08:00|U005|Kiran|[EMAIL MASKED]|IT|Student|PASSWORD_CHANGE|SUCCESS|[IP MASKED]|research/dataset.csv|Password changed
+18/09/2026|11:15:00|U010|Ishita|[EMAIL MASKED]|EEE|Student|ACCESS|DENIED|[IP MASKED]|lab/config.conf|Permission denied
+19/09/2026|14:22:00|U003|Rohan|[EMAIL MASKED]|CSE|Student|DOWNLOAD|SUCCESS|[IP MASKED]|lab/project.zip|File downloaded
+20/09/2026|17:29:00|U008|Neha|[EMAIL MASKED]|IT|Staff|LOGIN|FAILED|[IP MASKED]|admin/backup.tar|Account temporarily locked
+21/09/2026|08:36:00|U001|Aarav|[EMAIL MASKED]|CSE|Student|DELETE|SUCCESS|[IP MASKED]|research/report.pdf|File deleted
+22/09/2026|11:43:00|U006|Ananya|[EMAIL MASKED]|CSE|Faculty|UPLOAD|SUCCESS|[IP MASKED]|faculty/results.xlsx|File uploaded
+23/09/2026|14:50:00|U011|Arjun|[EMAIL MASKED]|IT|Student|LOGIN|SUCCESS|[IP MASKED]|course/assignment.pdf|User login successful
+24/09/2026|17:57:00|U004|Meera|[EMAIL MASKED]|EEE|Student|DELETE|FAILED|[IP MASKED]|course/notes.txt|Delete operation failed
+25/09/2026|08:04:00|U009|Rahul|[EMAIL MASKED]|CSE|Student|ACCESS|SUCCESS|[IP MASKED]|research/dataset.csv|Resource accessed
+26/09/2026|11:11:00|U002|Diya|[EMAIL MASKED]|ECE|Student|LOGIN|FAILED|[IP MASKED]|lab/config.conf|Invalid password
+27/09/2026|14:18:00|U007|Vikram|[EMAIL MASKED]|ECE|Faculty|PASSWORD_CHANGE|SUCCESS|[IP MASKED]|lab/project.zip|Password changed
+28/09/2026|17:25:00|U012|Sana|[EMAIL MASKED]|CSE|Researcher|ACCESS|DENIED|[IP MASKED]|admin/backup.tar|Permission denied
+01/09/2026|08:32:00|U005|Kiran|[EMAIL MASKED]|IT|Student|DOWNLOAD|SUCCESS|[IP MASKED]|research/report.pdf|File downloaded
+02/10/2026|11:39:00|U010|Ishita|[EMAIL MASKED]|EEE|Student|LOGIN|FAILED|[IP MASKED]|faculty/results.xlsx|Account temporarily locked
+03/10/2026|14:46:00|U003|Rohan|[EMAIL MASKED]|CSE|Student|DELETE|SUCCESS|[IP MASKED]|course/assignment.pdf|File deleted
+04/10/2026|17:53:00|U008|Neha|[EMAIL MASKED]|IT|Staff|UPLOAD|SUCCESS|[IP MASKED]|course/notes.txt|File uploaded
+05/10/2026|08:00:00|U001|Aarav|[EMAIL MASKED]|CSE|Student|LOGIN|SUCCESS|[IP MASKED]|research/dataset.csv|User login successful
+06/10/2026|11:07:00|U006|Ananya|[EMAIL MASKED]|CSE|Faculty|DELETE|FAILED|[IP MASKED]|lab/config.conf|Delete operation failed
+07/10/2026|14:14:00|U011|Arjun|[EMAIL MASKED]|IT|Student|ACCESS|SUCCESS|[IP MASKED]|lab/project.zip|Resource accessed
+08/10/2026|17:21:00|U004|Meera|[EMAIL MASKED]|EEE|Student|LOGIN|FAILED|[IP MASKED]|admin/backup.tar|Invalid password
+09/10/2026|08:28:00|U009|Rahul|[EMAIL MASKED]|CSE|Student|PASSWORD_CHANGE|SUCCESS|[IP MASKED]|research/report.pdf|Password changed
+10/10/2026|11:35:00|U002|Diya|[EMAIL MASKED]|ECE|Student|ACCESS|DENIED|[IP MASKED]|faculty/results.xlsx|Permission denied
+11/10/2026|14:42:00|U007|Vikram|[EMAIL MASKED]|ECE|Faculty|DOWNLOAD|SUCCESS|[IP MASKED]|course/assignment.pdf|File downloaded
+12/10/2026|17:49:00|U012|Sana|[EMAIL MASKED]|CSE|Researcher|LOGIN|FAILED|[IP MASKED]|course/notes.txt|Account temporarily locked
+13/10/2026|08:56:00|U005|Kiran|[EMAIL MASKED]|IT|Student|DELETE|SUCCESS|[IP MASKED]|research/dataset.csv|File deleted
+14/10/2026|11:03:00|U010|Ishita|[EMAIL MASKED]|EEE|Student|UPLOAD|SUCCESS|[IP MASKED]|lab/config.conf|File uploaded
+15/10/2026|14:10:00|U003|Rohan|[EMAIL MASKED]|CSE|Student|LOGIN|SUCCESS|[IP MASKED]|lab/project.zip|User login successful
+16/10/2026|17:17:00|U008|Neha|[EMAIL MASKED]|IT|Staff|DELETE|FAILED|[IP MASKED]|admin/backup.tar|Delete operation failed
+17/10/2026|08:24:00|U001|Aarav|[EMAIL MASKED]|CSE|Student|ACCESS|SUCCESS|[IP MASKED]|research/report.pdf|Resource accessed
+18/10/2026|11:31:00|U006|Ananya|[EMAIL MASKED]|CSE|Faculty|LOGIN|FAILED|[IP MASKED]|faculty/results.xlsx|Invalid password
+19/10/2026|14:38:00|U011|Arjun|[EMAIL MASKED]|IT|Student|PASSWORD_CHANGE|SUCCESS|[IP MASKED]|course/assignment.pdf|Password changed
+20/10/2026|17:45:00|U004|Meera|[EMAIL MASKED]|EEE|Student|ACCESS|DENIED|[IP MASKED]|course/notes.txt|Permission denied
+21/10/2026|08:52:00|U009|Rahul|[EMAIL MASKED]|CSE|Student|DOWNLOAD|SUCCESS|[IP MASKED]|research/dataset.csv|File downloaded
+22/10/2026|11:59:00|U002|Diya|[EMAIL MASKED]|ECE|Student|LOGIN|FAILED|[IP MASKED]|lab/config.conf|Account temporarily locked
+23/10/2026|14:06:00|U007|Vikram|[EMAIL MASKED]|ECE|Faculty|DELETE|SUCCESS|[IP MASKED]|lab/project.zip|File deleted
+24/10/2026|17:13:00|U012|Sana|[EMAIL MASKED]|CSE|Researcher|UPLOAD|SUCCESS|[IP MASKED]|admin/backup.tar|File uploaded
+25/10/2026|08:20:00|U005|Kiran|[EMAIL MASKED]|IT|Student|LOGIN|SUCCESS|[IP MASKED]|research/report.pdf|User login successful
+26/10/2026|11:27:00|U010|Ishita|[EMAIL MASKED]|EEE|Student|DELETE|FAILED|[IP MASKED]|faculty/results.xlsx|Delete operation failed
+27/10/2026|14:34:00|U003|Rohan|[EMAIL MASKED]|CSE|Student|ACCESS|SUCCESS|[IP MASKED]|course/assignment.pdf|Resource accessed
+28/10/2026|17:41:00|U008|Neha|[EMAIL MASKED]|IT|Staff|LOGIN|FAILED|[IP MASKED]|course/notes.txt|Invalid password
+01/10/2026|08:48:00|U001|Aarav|[EMAIL MASKED]|CSE|Student|PASSWORD_CHANGE|SUCCESS|[IP MASKED]|research/dataset.csv|Password changed
+02/11/2026|11:55:00|U006|Ananya|[EMAIL MASKED]|CSE|Faculty|ACCESS|DENIED|[IP MASKED]|lab/config.conf|Permission denied
+03/11/2026|14:02:00|U011|Arjun|[EMAIL MASKED]|IT|Student|DOWNLOAD|SUCCESS|[IP MASKED]|lab/project.zip|File downloaded
+04/11/2026|17:09:00|U004|Meera|[EMAIL MASKED]|EEE|Student|LOGIN|FAILED|[IP MASKED]|admin/backup.tar|Account temporarily locked
+05/11/2026|08:16:00|U009|Rahul|[EMAIL MASKED]|CSE|Student|DELETE|SUCCESS|[IP MASKED]|research/report.pdf|File deleted
+06/11/2026|11:23:00|U002|Diya|[EMAIL MASKED]|ECE|Student|UPLOAD|SUCCESS|[IP MASKED]|faculty/results.xlsx|File uploaded
+07/11/2026|14:30:00|U007|Vikram|[EMAIL MASKED]|ECE|Faculty|LOGIN|SUCCESS|[IP MASKED]|course/assignment.pdf|User login successful
+08/11/2026|17:37:00|U012|Sana|[EMAIL MASKED]|CSE|Researcher|DELETE|FAILED|[IP MASKED]|course/notes.txt|Delete operation failed
+09/11/2026|08:44:00|U005|Kiran|[EMAIL MASKED]|IT|Student|ACCESS|SUCCESS|[IP MASKED]|research/dataset.csv|Resource accessed
+10/11/2026|11:51:00|U010|Ishita|[EMAIL MASKED]|EEE|Student|LOGIN|FAILED|[IP MASKED]|lab/config.conf|Invalid password
+11/11/2026|14:58:00|U003|Rohan|[EMAIL MASKED]|CSE|Student|PASSWORD_CHANGE|SUCCESS|[IP MASKED]|lab/project.zip|Password changed
+12/11/2026|17:05:00|U008|Neha|[EMAIL MASKED]|IT|Staff|ACCESS|DENIED|[IP MASKED]|admin/backup.tar|Permission denied
+13/11/2026|08:12:00|U001|Aarav|[EMAIL MASKED]|CSE|Student|DOWNLOAD|SUCCESS|[IP MASKED]|research/report.pdf|File downloaded
+14/11/2026|11:19:00|U006|Ananya|[EMAIL MASKED]|CSE|Faculty|LOGIN|FAILED|[IP MASKED]|faculty/results.xlsx|Account temporarily locked
+15/11/2026|14:26:00|U011|Arjun|[EMAIL MASKED]|IT|Student|DELETE|SUCCESS|[IP MASKED]|course/assignment.pdf|File deleted
+16/11/2026|17:33:00|U004|Meera|[EMAIL MASKED]|EEE|Student|UPLOAD|SUCCESS|[IP MASKED]|course/notes.txt|File uploaded
+17/11/2026|08:40:00|U009|Rahul|[EMAIL MASKED]|CSE|Student|LOGIN|SUCCESS|[IP MASKED]|research/dataset.csv|User login successful
